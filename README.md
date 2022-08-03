@@ -24,7 +24,7 @@ Contact me:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gablsl&layout=compact&theme=radical" />
 </div>
 
-![Snake animation](https://github.com/rafaballerini/gablsl/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gablsl/gablsl/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   
