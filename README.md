@@ -11,6 +11,7 @@
   <img height="40" width="50" align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
   <img height="40" width="50" align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img height="40" width="50" align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img height="40" width="50" align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
 </div>
 
 <hr>
