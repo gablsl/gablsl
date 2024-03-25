@@ -1,4 +1,4 @@
-## My name is Gabriel Sousa
+## Hi! I'm Gabriel Sousa
 
 - 🎓 Computer Science Student at @[Estácio](https://estacio.br/)
 - 🌐 Passionate about web development
@@ -18,6 +18,6 @@
 <hr>
 
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielynw&show_icons=true&theme=transparent" alt="top-langs"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielynw&layout=compact&theme=transparent" alt="top-langs"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gablsl&show_icons=true&theme=transparent" alt="top-langs"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gablsl&layout=compact&theme=transparent" alt="top-langs"/>
 </div>
