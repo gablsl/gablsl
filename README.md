@@ -1,19 +1,15 @@
-## Hi! I'm Gabriel Sousa
+<h1>Hi There! 👋</h1>
 
-- 🎓 Computer Science Student at @[Estácio](https://estacio.br/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gblsl/)](https://www.linkedin.com/in/gblsl/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=[https://www.fernandakipper.com/](https://portfolio-gablsl1s-projects.vercel.app/))]([https://fernandakipper.com/](https://portfolio-gablsl1s-projects.vercel.app/))
+[![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsousadeveloper@gmail.com)](mailto:gabrielsousadeveloper@gmail.com)
+
+## My name is Gabriel
+(Java | Spring Boot | Next JS | React JS | Next JS | Typescript | Javascript | HTML | CSS ) 🚀
+- 💻 FullStack Developer
+- 🎓 Computer Science Student @ [Estácio](https://estacio.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
-
-<div style="display: inline_block">
-  <img height="40" width="50" align="center" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-  <img height="40" width="50" align="center" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-  <img height="40" width="50" align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-  <img height="40" width="50" align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-  <img height="40" width="50" align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-  <img height="40" width="50" align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img height="40" width="50" align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
-  <img height="40" width="50" align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-</div>
 
 <hr>
 
