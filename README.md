@@ -6,7 +6,7 @@
 
 ## My name is Gabriel
 (Java | Spring Boot | React | Next JS | Angular | Typescript | Javascript | Docker | AWS ) 
-- 💻 FullStack Developer
+- 💻 Full Stack Developer
 - 🎓 Computer Science Student at [Estácio](https://estacio.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
