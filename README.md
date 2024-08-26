@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielsousadeveloper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsousadeveloper@gmail.com)](mailto:gabrielsousadeveloper@gmail.com)
 
 ## My name is Gabriel
-(Java | Spring Boot | React | Next JS | Angular | Typescript | Javascript | Docker ) 
+(Java | Spring Boot | React | Next JS | Angular | Typescript | Javascript | Docker | AWS ) 
 - 💻 FullStack Developer
 - 🎓 Computer Science Student at [Estácio](https://estacio.br/)
 - 🌐 Passionate about web development
