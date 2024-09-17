@@ -16,3 +16,5 @@
 ![my gh stats](https://github-readme-stats.vercel.app/api?username=gablsl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablsl&layout=compact&theme=tokyonight)
 
+![snake animation](https://github.com/gablsl/gablsl/blob/output/github-contribution-grid-snake2.svg)
+
