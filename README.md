@@ -8,6 +8,7 @@
 (Java | Spring Boot | React | Next JS | Angular | Typescript | Javascript | Docker | AWS ) 
 - 💻 Full Stack Developer
 - 🎓 Computer Science Student at [Estácio](https://estacio.br/)
+- 🏢 Working as a Full Stack Developer at [Grupo RBS](https://www.gruporbs.com.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
