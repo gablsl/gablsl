@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielsousadeveloper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsousadeveloper@gmail.com)](mailto:gabrielsousadeveloper@gmail.com)
 
 ## I'm Gabriel
-(Java | Spring Boot | React | Next JS | Angular | Typescript | Javascript | Docker | AWS ) 
+(Spring Boot | NestJS | React | Typescript | Javascript | Docker | AWS ) 
 - 💻 Full Stack Developer
-- 🎓 Computer Science Student at [Estácio](https://estacio.br/)
+- 🎓 Computer Science Student at [Cruzeiro Do Sul](https://www.cruzeirodosulvirtual.com.br)
 - 🏢 Working as a Full Stack Developer at [Grupo RBS](https://www.gruporbs.com.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
