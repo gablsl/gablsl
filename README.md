@@ -1,19 +1,16 @@
-<h1>Welcome 👋</h1>
+# Hello! Welcome to my profile
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gblsl/)](https://www.linkedin.com/in/gblsl/)
-[![Personal Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://portfolio-gablsl1s-projects.vercel.app/)](https://portfolio-gablsl1s-projects.vercel.app/)
-[![Gmail Badge](https://img.shields.io/badge/-gabrielsousadeveloper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsousadeveloper@gmail.com)](mailto:gabrielsousadeveloper@gmail.com)
+<img align="right" width="300" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE0a3FldnMzZ2swN3YxMWN6OXptOGZ1NG5wamRkbGxiMjhhejhndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9jShLBEYbcHj0DIKA/giphy.gif" />
 
-## I'm Gabriel
-(Spring Boot | NestJS | React | Typescript | Javascript | Docker | AWS ) 
-- 💻 Full Stack Developer
-- 🎓 Computer Science Student at [Cruzeiro Do Sul](https://www.cruzeirodosulvirtual.com.br)
-- 🏢 Working as a Full Stack Developer at [Grupo RBS](https://www.gruporbs.com.br/)
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+I'm a full stack developer actually working at [RBS Group](https://www.gruporbs.com.br/). This is my [portfolio](https://portfolio-gablsl1s-projects.vercel.app) with my projects
 
-<hr>
+<div>
+  <img align="center" alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="nestjs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" />
+  <img align="center" alt="python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" />
+</div><br>
 
-![my gh stats](https://github-readme-stats.vercel.app/api?username=gablsl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablsl&layout=compact&theme=tokyonight)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gblsl)](https://www.linkedin.com/in/gablsl)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielsousadeveloper@gmail.com)](mailto:gabrielsousadeveloper@gmail.com)
