@@ -13,4 +13,4 @@ I'm a full stack developer actually working at [RBS Group](https://www.gruporbs.
 </div><br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gblsl)](https://www.linkedin.com/in/gablsl)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielsousadeveloper@gmail.com)](mailto:gabrielsousadeveloper@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gablslcontact@gmail.com)](mailto:gablslcontact@gmail.com)
