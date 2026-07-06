@@ -20,13 +20,11 @@
 
 ---
 
-<p align="left">
-  <img alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" />
-  <img alt="typescript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" />
-  <img alt="nestjs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nestjs/nestjs-original.svg" />
-  <img alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" />
-  <img alt="springboot" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg" />
-  <img alt="golang" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/go/go-original-wordmark.svg" />
-  <img alt="c" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/c/c-original.svg" />
-  <img alt="c-plus-plus" width="40" height="40"    src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/cplusplus/cplusplus-original.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nestjs,react,next" />
+    <br/> <img src="https://skillicons.dev/icons?i=spring,go,c,cpp,docker" />
+    <br/> <img src="https://skillicons.dev/icons?i=linux,aws,gcp,graphql,python" />
+    <br/> <img src="https://skillicons.dev/icons?i=unity,figma,github,supabase" />
+  </a>
 </p>
